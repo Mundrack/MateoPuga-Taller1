@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MateoPuga Taller1", "MateoPuga Taller1.csproj", "{735FCA16-A8FB-4023-B136-04F96514F4BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MateoPuga Taller1", "MateoPuga Taller1.csproj", "{735FCA16-A8FB-4023-B136-04F96514F4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBURGER", "..\..\..\Downloads\API BURGER\ApiBURGER\ApiBURGER.csproj", "{E9188B06-2458-4D3C-8F4A-21B66A9C9096}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{735FCA16-A8FB-4023-B136-04F96514F4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735FCA16-A8FB-4023-B136-04F96514F4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735FCA16-A8FB-4023-B136-04F96514F4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9188B06-2458-4D3C-8F4A-21B66A9C9096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9188B06-2458-4D3C-8F4A-21B66A9C9096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9188B06-2458-4D3C-8F4A-21B66A9C9096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9188B06-2458-4D3C-8F4A-21B66A9C9096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
